@@ -1,0 +1,4 @@
+/envfile
+node_modules
+/dist   // Add this line    
+README.md
